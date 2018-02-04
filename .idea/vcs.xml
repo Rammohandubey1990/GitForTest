@@ -2,6 +2,7 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/app/src/main/java/com/pashu/gitfortest" vcs="Git" />
     <mapping directory="C:\Users\hh\AndroidStudioProjects\EmandiSBnew 23rd oct\GitForTest\new" vcs="Git" />
   </component>
 </project>
